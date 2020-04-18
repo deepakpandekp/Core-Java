@@ -10,7 +10,7 @@ public class EncapsulationTest {
 	public void EmployeeTest() {
 		Employee employee = new Employee("John", 27,"Newyork");
 		employee.printEmployeDetails();
-		assertEquals("John", employee.name);
+		int i=2;assertEquals("John Pande",employee.name);
 	}
 
 }
