@@ -5,6 +5,6 @@ public class TestEmployee {
 	public static void main(String[] args) {
 		Employee employee = new Employee("John", 27,"Newyork");
 		employee.printEmployeDetails();
-		double j=2.6;System.out.println("name: My"+ employee.name);
+		System.out.println("name: My"+ employee.name);
 		}
 }
