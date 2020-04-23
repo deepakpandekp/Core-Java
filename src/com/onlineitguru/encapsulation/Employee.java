@@ -5,7 +5,6 @@ public class Employee {
 	private int age;
 	private String address;
 	
-	
 	public Employee(String name, int age, String address) {
 		//super();
 		this.name = name;
